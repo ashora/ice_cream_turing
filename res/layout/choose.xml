@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <Button
+        android:id="@+id/set"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="174dp"
+        android:layout_marginLeft="104dp"
+        android:text="设置" />
+
+    <Button
+        android:id="@+id/veri"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/set"
+        android:layout_alignBottom="@+id/set"
+        android:layout_toRightOf="@+id/set"
+        android:text="验证" />
+    
+</RelativeLayout>

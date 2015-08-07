@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="rightPadding" format="dimension" />
+
+    <declare-styleable name="SlidingMenu">
+        <attr name="rightPadding" />
+    </declare-styleable>
+    <attr format="color" name="color_no_finger_inner_circle"/> 
+    <attr format="color" name="color_no_finger_outer_circle"/> 
+    <attr format="color" name="color_finger_on"/> 
+    <attr format="color" name="color_finger_up"/> 
+    <attr format="integer" name="count"/> 
+    <attr format="integer" name="tryTimes"/> 
+    <declare-styleable name="GestureLockViewGroup"> 
+    <attr name="color_no_finger_inner_circle"/> 
+    <attr name="color_no_finger_outer_circle"/>
+     <attr name="color_finger_on"/> 
+     <attr name="color_finger_up"/> 
+     <attr name="count"/> 
+     <attr name="tryTimes"/> 
+     </declare-styleable>
+
+</resources>

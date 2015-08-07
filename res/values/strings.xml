@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">IceCream_Turling</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="set_hand">设置手势</string>
+    <string name="veri_hand">验证手势</string>
+	<string name="robort_name">冰淇淋</string>
+</resources>
